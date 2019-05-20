@@ -1,0 +1,11 @@
+NAME: /Users/kirkfay/Desktop//School/CSC406/CSC406/Assignment2/src/Assignment2/outputFileName.opt.tour
+TYPE: tour
+DIMENSION: 6
+TOUR_SECTION
+1
+2
+6
+5
+4
+3
+-1

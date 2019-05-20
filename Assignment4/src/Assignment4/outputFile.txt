@@ -1,0 +1,33 @@
+text: JIM SAW ME IN A BARBER SHOP	pattern: BARBER
+bmt table: {A=4, B=2, R=3, E=1, *=6}
+Found a match for the pattern: BARBER at pos: 16
+
+text: BRIAN BROUGHT BANANAS HOME	pattern: BANANA
+bmt table: {A=2, B=5, *=6, N=1}
+Found a match for the pattern: BANANA at pos: 14
+
+text: TRUST HARD TOOTH BRUSHES	pattern: TOOTH
+bmt table: {T=1, H=5, *=5, O=2}
+Found a match for the pattern: TOOTH at pos: 11
+
+text: BESS KNEW ABOUT BAOBABS	pattern: BAOBAB
+bmt table: {A=1, B=2, *=6, O=3}
+Found a match for the pattern: BAOBAB at pos: 16
+
+text: JIMY_HAILED_THE_LEADER_TO_STOP	pattern: LEADER
+bmt table: {A=3, R=6, D=2, E=1, *=6, L=5}
+Found a match for the pattern: LEADER at pos: 16
+
+text: ABABABCCA	pattern: ABABC
+bmt table: {A=2, B=1, C=5, *=5}
+Found a match for the pattern: ABABC at pos: 2
+
+text: das	pattern: asfrwyt
+bmt table: {a=6, r=3, s=5, t=7, f=4, w=2, y=1, *=7}
+pattern < text. not Found a match for the pattern. 
+
+text: texttexttext	pattern: notintext
+bmt table: {t=3, e=2, x=1, i=5, *=9, n=4, o=7}
+not Found match for pattern: notintext
+
+
